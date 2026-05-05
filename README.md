@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Vansh! 👋
+### Founder of **Portion.dev** | High-End Web Developer
 
-<!--
-**vanshu275/vanshu275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Currently building performance-oriented websites.
+- 🛠 Working with **React, GSAP, Tailwind CSS, and MERN stack**.
+- 🎓 Student at **GBPUAT (College of Technology)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 📊 GitHub Stats
+![Vansh's Stats](https://github-readme-stats.vercel.app/api?username=vanshu275_HERE&show_icons=true&theme=tokyonight)
+
+---
