@@ -14,8 +14,6 @@
 ### 🚀 About Me
 - 🎓 **Student** at GBPUAT (College of Technology)
 - 🛠️ Specialized in **custom performance-oriented** web engines & GSAP animations.
-- ⚡ **Founder** of Portion.dev (Digital Agency).
-- 🏗️ Building **foundational tools** like custom browsers and system utilities.
 
 ---
 
